@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @hanjinShin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hanjinShin/hanjinShin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-안녕하세요 @hanjinShin입니다.
+- 👋 안녕하세요 @hanjinShin 입니다.
+- 백엔드 개발자가 되기위하여 학습중에 있습니다.
+- 감사합니다!
